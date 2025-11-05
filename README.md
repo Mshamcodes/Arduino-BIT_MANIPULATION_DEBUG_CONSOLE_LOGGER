@@ -32,10 +32,10 @@ A professional-grade Arduino Uno project demonstrating register-level bit manipu
 2. Open the Serial Monitor (9600 baud)  
 3. Enter commands like:
 
- -> SET 0
-    READ
-    TOGGLE 0
-    CLEAR 0
+a. SET 0 
+b. READ 
+c. TOGGLE 0
+d. CLEAR 0
 
 Output : 
 ![alt text](image.png)
